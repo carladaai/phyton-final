@@ -1,4 +1,4 @@
-#Clase 11 - Phyton-final
+*Clase 11 - Phyton-final*
 
 ¿Qué es Pip?
 Pip es el gestor de paquetes oficial para Python. Permite instalar, actualizar y gestionar bibliotecas 
